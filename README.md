@@ -66,7 +66,7 @@ cross-highlight Applies to visual interactions. Cross-highlighting retains all t
 
 custom visual Visuals that are created by the community and Microsoft. They can be downloaded from the Office store for use in Power BI reports.
 
-D
+# D
 dashboard A selection of visuals that communicate status and metrics. A dashboard organizes and presents data in an easy-to-understand way.
 
 data classification See classification
@@ -89,7 +89,7 @@ Dimension - dimensions are categorical (text) data. A dimension describes a pers
 
 drill up, drill down, drillthrough In Power BI, use drill down and drill up to refer to the ability to explore the next level of detail in a report or visual. Use drillthrough to refer to the ability to select a part of a visual and be taken to another page in the report, filtered to the data that relates to the part of the visual you selected on the original page. Drill to details commonly means to show the underlying records.
 
-E
+# E
 Editing View The mode in which report designers can explore, design, build, and share a report.
 
 ellipsis ...
@@ -103,7 +103,7 @@ embedding In the Power BI developer offering, the process of integrating analyti
 
 environment [Power BI Desktop, Power BI Mobile, the Power BI service, etc.] Another way to refer to one of the Power BI tools. It's okay to use Power BI environment (tenant) in documentation where it may help business analysts who are familiar with the term tenant to know it's the same thing.
 
-F
+# F
 favorite, unfavorite Verb meaning to add to the Favorites list for quick access to frequently visited dashboards and reports in Power BI. When you no longer want them as a favorite, you unfavorite them.
 
 filter versus highlight A filter removes data that does not apply. A highlight grays out the data that does not apply.
@@ -114,22 +114,23 @@ Free account See account
 
 full screen, full-screen mode Use full screen mode to view Power BI content without the distraction of menus and navigation panes. This is sometimes referred to as TV mode.
 
-G
+# G
 gateways or on-premises data gateways A bridge to underlying data sources. It provides quick and secure data transfer between the Power BI service and on-premises data sources that support refresh. Usually managed by IT.
 
-H
+# H
 high-density visuals Visuals with more data points than Power BI can render. Power BI samples the data to show the shape and outliers.
 
 Home The default landing age for Power BI service users. Doesn't modify anything. Can be called Power BI Home or simply Home.
 
-I
+# I
 insights See quick insights.
 
-J
-K
+# J
+
+# K
 KPIs Key performance indicators. A type of visual.
 
-L
+# L
 left navigation (left nav) This has been replaced with nav pane but may still appear in some documentation.
 The controls along the left edge of Power BI service.
 
@@ -139,7 +140,7 @@ license See account.
 
 list page or content list One of the section pages for the elements in the nav pane. For example, Favorites, Recents, My workspace, etc.
 
-M
+# M
 Measure - a measure is a quantitative (numeric) field that can be used to do calculations. Common calculations are sum, average, and minimum. For example, if our company makes and sells skateboards, our measures might be number of skateboards sold and average profit per year.
 
 Mobile app Apps that allow you to run Power BI on iOS, Android, and Windows devices.
@@ -148,7 +149,7 @@ modeling [Power BI Desktop] Getting the data you've connected to ready for use i
 
 My workspace The workspace for each Power BI customer to use to create content. If they want to bundle anything created here into an app, and they have designer permissions, they upload it to the appropriate workspace or create a new one.
 
-N
+# N
 native Included with the product. For example, Power BI comes with a set of native visualization types. But you can also import other types, such as Power BI visuals.
 
 navigation pane or nav pane The controls along the left edge of the Power BI service.
@@ -159,12 +160,12 @@ notification Messages sent by and to the Power BI Notification Center.
 
 Notification Center The location in the service where messages are delivered to users, such as notice of sunsetting certain features.
 
-O
+# O
 OneDrive for Business vs OneDrive OneDrive is a personal account and OneDrive for Business is for work accounts.
 
 On-premises The term used to distinguish local computing (in which computing resources are located on a customer’s own facilities) from cloud computing.
 
-P
+# P
 PaaS PaaS stands for platform as a service. For example, Power BI Embedded.
 
 page Reports have one or more pages. Each tab on the report canvas represents a page.
@@ -201,7 +202,8 @@ Pro license or Pro account See account.
 
 publish Power BI service report designers bundle the contents of a Power BI workspace to make it available to others as a Power BI app. Power BI Desktop report designers use publish to refer to sending a Power BI Desktop report in .pbix format to the Power BI service so that they can build dashboards from it and easily share it with others.
 
-Q
+# Q
+
 Q&A The ability to type natural language questions about a dataset and get responses in the form of visualizations. Appears in the Power BI service and Desktop.
 
 Q&A virtual analyst
@@ -214,7 +216,8 @@ Add to a URL to pre-filter the results seen in a Power BI report. In the broades
 
 Quick Insights Quick Insights refer to automatically generated insights that reveal trends and patterns in data.
 
-R
+# R
+
 R, Microsoft R R is a programming language and software environment for statistical computing and graphics.
 
 Reading View Read-only view for reports (as opposed to Editing View).
@@ -240,7 +243,8 @@ row-level security, RLS Power BI feature that enables database administrators to
 
 Administrators can configure RLS for data models imported into Power BI with Power BI Desktop.
 
-S
+# S
+
 SaaS
 Software as a service (or SaaS) is a way of delivering applications over the internet—as a web-based service. Also referred to as: web-based software, on-demand software, or hosted software.
 
@@ -267,14 +271,16 @@ You can subscribe to report pages, apps, and dashboards and receive emails conta
 
 summarization [Power BI Desktop] The operation being applied to the values in one column.
 
-T
+# T
 tiles
 Power BI dashboards contain report tiles.
 
 Time series - a time series is a way of displaying time as successive data points. Those data points could be increments such as seconds, hours, months, or years.
 
-U
-V
+# U
+
+# V
+
 value, values Numerical data to be visualized.
 
 visual, visualization A chart. Some visuals are: bar chart, treemap, doughnut chart, map.
@@ -283,16 +289,17 @@ Visual interaction One of the great features of Power BI is the way all visuals 
 
 Visualizations pane Name for the visualization templates that ship in the shared report canvas for Power BI Desktop and the Power BI service. Contains small templates, also called icons, for each native visualization type.
 
-W
+# W
+
 workbook An Excel workbook to be used as a data source. Workbooks can contain a data model with one or more tables of data loaded into it by using linked tables, Power Query, or Power Pivot.
 
 workspace Containers for dashboards, reports, and datasets in Power BI. Users can collaborate on the content in any workspace except My workspace. The contents can be bundled into a Power BI app. Those stored in Premium capacity can be shared with Free users. Personal workspaces (under My workspace) can be hosted in Premium capacity.
 
-X
+# X
 x-axis
 The axis along the bottom, the horizontal axis.
 
-Y
+# Y
 y-axis The axis along the side, the vertical axis.
 
-Z
+# Z
